@@ -1,0 +1,20 @@
+- electronics:
+    - arduino mega :
+        - http://arduino.cc/en/Main/ArduinoBoardMega2560
+    - ramps shield:
+        - http://www.lulzbot.com/en/49-ramps-14-assembled.html
+- stepper motors:
+    - pololu stepper motor driver carrier
+        - http://www.pololu.com/catalog/product/1182
+        - http://www.lulzbot.com/en/24-pololu-a4988-stepper-motor-driver.html
+- thermistor:
+    - http://www.lulzbot.com/en/electronics/87-100k-epcos-thermistor.html
+    - http://www.lulzbot.com/en/electronics/88-100k-epcos-thermistor.html
+- plate:
+    - print surface:
+        - http://www.lulzbot.com/en/57-borosilicate-glass-bed.html
+    - heat resistors:
+        - http://www.lulzbot.com/en/hot-ends/90-8ohms-resistor.html
+- extruder:
+    - hot end:
+        - http://www.lulzbot.com/en/96-budaschnozzle-11.html
